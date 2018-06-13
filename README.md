@@ -1,7 +1,7 @@
 # blog-reference-code
 Reference code blog.legyver.xom
 
-##Power of Enums
+## Power of Enums
 So as Java developers, we're constantly told to favor using enums over constants, but why?  And how does this then work?
 
 Basically, by using enums, we can give each type instance its own state, and its own behavior.
